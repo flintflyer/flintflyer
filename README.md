@@ -14,11 +14,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="WyattFlint | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/flintflyer/
 [linkedin]: https://www.linkedin.com/in/wyatt-flint-1b84973a7?trk=people-guest_people_search-card
 
 <!--
