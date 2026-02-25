@@ -22,7 +22,7 @@
 [linkedin]: https://www.linkedin.com/in/wyatt-flint-1b84973a7?trk=people-guest_people_search-card
 
 <!--
-**wyattflint/wyattflint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wyattflint/wyattflint** 
 
 Here are some ideas to get you started:
 
