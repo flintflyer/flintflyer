@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Project</b>
   - [Active Directory Home Lab](https://github.com/flintflyer/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
