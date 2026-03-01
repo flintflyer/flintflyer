@@ -9,7 +9,7 @@
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/f89edb9fc86df6def78af3b1d8653a4f)
 - CISCO Ethical Hacking Certificate (Expected 5/26)
-- CompTIA Security + (Expected on 5/26)
+- CompTIA Security + (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 
