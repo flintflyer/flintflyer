@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project</b>
+- <b>Projects</b>
   - [Active Directory Home Lab](https://github.com/flintflyer/ActiveDirectoryLab)
   - [Vulnerability Scanning Project ](https://github.com/flintflyer/Vulnerability-Scanning-Project/blob/main/README.md)
   - [Active Directory Attack & Defense Lab](https://github.com/flintflyer/Active-Directory-Attack-Defense-Lab)
