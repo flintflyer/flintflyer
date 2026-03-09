@@ -5,7 +5,7 @@
 - <b>Project</b>
   - [Active Directory Home Lab](https://github.com/flintflyer/ActiveDirectoryLab)
   - [Vulnerability Scanning Project ](https://github.com/flintflyer/Vulnerability-Scanning-Project/blob/main/README.md)
-  - [Network Analysis Lab](https://github.com/flintflyer/ActiveDirectoryLab)
+  - [Active Directory Attack & Defense Lab](https://github.com/flintflyer/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
 
